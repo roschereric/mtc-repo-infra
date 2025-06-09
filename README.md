@@ -1,2 +1,1 @@
-# mtc-repo-infra
-infra Code For mtc-course
+# This dev repo is for infra devs
